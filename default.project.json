@@ -1,0 +1,12 @@
+{
+  "name": "quickfix-roblox-plugin",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "QuickFix": {
+        "$path": "src"
+      }
+    }
+  }
+}

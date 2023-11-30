@@ -1,2 +1,3 @@
 # quickfix-roblox-plugin
- A plugin for streamlining asset optimization.
+
+A plugin for streamlining asset optimization.
